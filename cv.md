@@ -46,3 +46,21 @@ In last three months I start intensive learning full-stack web development and O
 * [**RSSchool course**](https://rs.school/js/ "Курс «JavaScript/Front-end ~ 5 months»")
 * [**GoIT marathon**](https://goit.ua/marathon/ "Марафон GoIT (Front-end) ~ 10 days")
 * **Small front-end freelance tasks**
+
+## Tech skills:
+* **HTML5**
+* **CSS3**
+* **JavaScript**
+* **Git**
+* **C#/.NET basics**
+* **OOP basics**
+* [**English B2**](link "Certificate")
+
+## Soft skills:
+* **Teamwork**
+* **Time management**
+* **Self-organizing**
+* **Scrum/Agile basics**
+* **Communication skills**
+* **Negotiation skills**
+* **Perfectionism**
