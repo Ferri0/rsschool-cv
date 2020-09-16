@@ -36,3 +36,8 @@ In last three months I start intensive learning full-stack web development and O
   * *https://ru.bem.info/*
 
   * *and other...*
+  
+## My projects:
+* [**Resume project**](https://modest-kowalevski-7a3fa8.netlify.app "My first project")
+* [**Web studio project**](https://modest-kowalevski-7a3fa8.netlify.app "My second project")
+* [**IT studio project**](https://modest-kowalevski-7a3fa8.netlify.app "My third project")
