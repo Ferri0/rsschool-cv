@@ -11,3 +11,28 @@ Full-stack web developer
 First steps in front-end development I did 10 years ago. I learned HTML & CSS, some basics in back-end coding (C# & Java) and working with data-bases, got my first commercial projects (e-commerce on Joomla | Drupal CMS). Later i focused on my education, graduated from National Medical University (dentistry faculty) and worked in private medical center last 3 years. Now I want to change my profession, and my life by turning back to my favorite thing — coding.
 
 In last three months I start intensive learning full-stack web development and OOP basics. I'm very hardworking and have perfect soft-skills: I know how to organize my work and education, how to deal with great amounts of new information and how to work in team (each hard medical case is challenge for my whole team, that includes many professionals of different specializations).
+
+## Education:
+* **2012 – 2017:** Bogomolets National Medical University — Department of Dentistry
+* **2017 – 2019:** Bogomolets National Medical University — postgraduate internship education
+* <details><summary><b>2019 – 2020: </b>Self education in full-stack web development</summary>
+
+  * *Microsoft Visual C# Step by Step — Ninth Edition*
+
+  * *C# 4.0 The Complete Reference — Herbert Schildt*
+
+  * *Pro Git — Scott Chacon, Ben Straub*
+
+  * *RSSchool course*
+
+  * *GoIT marathon*
+
+  * *http://javascript.ru/*
+
+  * *https://www.udemy.com/course/web-full-stack/*
+
+  * *http://webmasters.teamdev.com/*
+
+  * *https://ru.bem.info/*
+
+  * *and other...*
