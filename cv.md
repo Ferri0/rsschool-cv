@@ -41,3 +41,8 @@ In last three months I start intensive learning full-stack web development and O
 * [**Resume project**](https://modest-kowalevski-7a3fa8.netlify.app "My first project")
 * [**Web studio project**](https://modest-kowalevski-7a3fa8.netlify.app "My second project")
 * [**IT studio project**](https://modest-kowalevski-7a3fa8.netlify.app "My third project")
+
+## Work experience:
+* [**RSSchool course**](https://rs.school/js/ "Курс «JavaScript/Front-end ~ 5 months»")
+* [**GoIT marathon**](https://goit.ua/marathon/ "Марафон GoIT (Front-end) ~ 10 days")
+* **Small front-end freelance tasks**
