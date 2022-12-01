@@ -2,7 +2,6 @@
 
 <img src="https://user-images.githubusercontent.com/67440994/205126180-dd4299d3-8dbf-4639-b984-f46ba0dbedb3.jpg" alt="avatar" width="300"/>
 
-
 ### Personal information
 - Date of birthday: **30/11/1994**
 - Address: **Bratislava**
@@ -16,23 +15,61 @@ I graduated from the RSSchool courses in 2019-2020.
 This year I came to RSSchool curse to keep my wife company, she is also studying to be a developer.
 
 ### Skills
-```
-|-----------------------|-----------|
-|         Skill         |  Rating   |
-|-----------------------|-----------|
-|HTML5/CSS/SCSS         | ★ ★ ★ ★ ★ |           
-|JavaScript             | ★ ★ ★ ★ ★ |                  
-|TypeScript             | ★ ★ ★ ☆ ☆ |                  
-|Git                    | ★ ★ ★ ★ ☆ |                  
-|React                  | ★ ★ ★ ★ ★ |
-|Redux                  | ★ ★ ★ ★ ☆ |                  
-|REST API               | ★ ★ ★ ★ ☆ |                  
-|GraphQL/Apollo Client  | ★ ★ ★ ★ ☆ |                  
-|Webpack                | ★ ★ ★ ☆ ☆ |                  
-|Node.js                | ★ ★ ★ ☆ ☆ |                  
-|Next.js                | ★ ★ ★ ☆ ☆ |
-|-----------------------|-----------|         
-```
+
+<table>
+    <thead>
+        <tr>
+            <th>Skill</td>
+            <th>Rating</td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>HTML5/CSS/SCSS</td>
+            <td> ★ ★ ★ ★ ★ </td>
+        </tr>
+        <tr>
+            <td>JavaScript</td>
+            <td> ★ ★ ★ ★ ★ </td>
+        </tr>
+        <tr>
+            <td>TypeScript</td>
+            <td> ★ ★ ★ ☆ ☆ </td>
+        </tr>
+        <tr>
+            <td>Git</td>
+            <td> ★ ★ ★ ★ ☆ </td>
+        </tr>
+        <tr>
+            <td>React</td>
+            <td> ★ ★ ★ ★ ★ </td>
+        </tr>
+        <tr>
+            <td>Redux</td>
+            <td> ★ ★ ★ ★ ☆ </td>
+        </tr>        
+        <tr>
+            <td>REST API</td>
+            <td> ★ ★ ★ ★ ☆ </td>
+        </tr>
+        <tr>
+            <td>GraphQL/Apollo Client</td>
+            <td> ★ ★ ★ ★ ☆ </td>
+        </tr>
+        <tr>
+            <td>Webpack</td>
+            <td> ★ ★ ★ ☆ ☆ </td>
+        </tr>
+        <tr>
+            <td>Node.js</td>
+            <td> ★ ★ ★ ☆ ☆ </td>
+        </tr>
+        <tr>
+            <td>Next.js</td>
+            <td> ★ ★ ★ ☆ ☆ </td>
+        </tr>
+    </tbody>
+<table>
 
 ### Code example
 ```js
