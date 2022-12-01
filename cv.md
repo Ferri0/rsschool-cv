@@ -27,3 +27,39 @@ This year I came to RSSchool curse to keep my wife company, she is also studying
 | Node.js               | ★ ★ ★ ☆ ☆                  |
 | Next.js               | ★ ★ ★ ☆ ☆                  |
 
+
+### Code example
+```js
+import fs from "fs/promises";
+import path from "path";
+
+import { isDirectory } from "./isDirectory.js";
+
+/**
+ * Service function, recursively copy all files from one folder to another
+ * Able to handle nested folders
+ *
+ * @param {string} folderPath - Initial folder path (copy from)
+ * @param {string} newFolderPath - Target folder path (copy to)
+ * @returns {Promise<void>}
+ */
+export const copyFolderContent = async (folderPath, newFolderPath) => {
+    const folderContent = await fs.readdir(folderPath)
+
+    for (let i = 0; i < folderContent.length; i++) {
+        const fileName = folderContent[i];
+
+        const filePath = path.join(folderPath, fileName)
+
+        if (await isDirectory(filePath)) {
+            const innerFolderPath = path.join(folderPath, fileName);
+            const newInnerFolderPath = path.join(newFolderPath, fileName);
+
+            await fs.mkdir(newInnerFolderPath)
+            await copyFolderContent(innerFolderPath, newInnerFolderPath)
+        } else {
+            await fs.copyFile(filePath, path.join(newFolderPath, fileName))
+        }
+    }
+}
+```
