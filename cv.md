@@ -63,3 +63,6 @@ export const copyFolderContent = async (folderPath, newFolderPath) => {
     }
 }
 ```
+
+### Finished project
+[React mini-game](https://ferri0-react-game.netlify.app/)
