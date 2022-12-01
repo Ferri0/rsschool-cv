@@ -19,8 +19,8 @@ This year I came to RSSchool curse to keep my wife company, she is also studying
 <table>
     <thead>
         <tr>
-            <th>Skill</td>
-            <th>Rating</td>
+            <th>Skill</th>
+            <th>Rating</th>
         </tr>
     </thead>
     <tbody>
