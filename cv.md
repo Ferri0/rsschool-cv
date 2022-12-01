@@ -66,3 +66,9 @@ export const copyFolderContent = async (folderPath, newFolderPath) => {
 
 ### Finished project
 [React mini-game](https://ferri0-react-game.netlify.app/)
+
+### Experience
+**2021 - Till now** - Frontend Web Developer  
+**2020 - 2021** - Freelance  
+**2019 - 2020** - Self-education, pet projects, RSSchool
+
