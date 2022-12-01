@@ -13,18 +13,23 @@ I graduated from the RSSchool courses in 2019-2020.
 This year I came to RSSchool curse to keep my wife company, she is also studying to be a developer.
 
 ### Skills
-**Skill**  | **Rating**
-HTML5/CSS/SCSS        | ★ ★ ★ ★ ★                  
-JavaScript            | ★ ★ ★ ★ ★                  
-TypeScript            | ★ ★ ★ ☆ ☆                  
-Git                   | ★ ★ ★ ★ ☆                  
-React                 | ★ ★ ★ ★ ★
-Redux                 | ★ ★ ★ ★ ☆                  
-REST API              | ★ ★ ★ ★ ☆                  
-GraphQL/Apollo Client | ★ ★ ★ ★ ☆                  
-Webpack               | ★ ★ ★ ☆ ☆                  
-Node.js               | ★ ★ ★ ☆ ☆                  
-Next.js               | ★ ★ ★ ☆ ☆                  
+```
+|-----------------------|-----------|
+|         Skill         |  Rating   |
+|-----------------------|-----------|
+|HTML5/CSS/SCSS         | ★ ★ ★ ★ ★ |           
+|JavaScript             | ★ ★ ★ ★ ★ |                  
+|TypeScript             | ★ ★ ★ ☆ ☆ |                  
+|Git                    | ★ ★ ★ ★ ☆ |                  
+|React                  | ★ ★ ★ ★ ★ |
+|Redux                  | ★ ★ ★ ★ ☆ |                  
+|REST API               | ★ ★ ★ ★ ☆ |                  
+|GraphQL/Apollo Client  | ★ ★ ★ ★ ☆ |                  
+|Webpack                | ★ ★ ★ ☆ ☆ |                  
+|Node.js                | ★ ★ ★ ☆ ☆ |                  
+|Next.js                | ★ ★ ★ ☆ ☆ |
+|-----------------------|-----------|         
+```         
 
 
 ### Code example
