@@ -29,8 +29,7 @@ This year I came to RSSchool curse to keep my wife company, she is also studying
 |Node.js                | ★ ★ ★ ☆ ☆ |                  
 |Next.js                | ★ ★ ★ ☆ ☆ |
 |-----------------------|-----------|         
-```         
-
+```
 
 ### Code example
 ```js
