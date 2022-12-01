@@ -69,7 +69,7 @@ This year I came to RSSchool curse to keep my wife company, she is also studying
             <td> ★ ★ ★ ☆ ☆ </td>
         </tr>
     </tbody>
-<table>
+</table>
 
 ### Code example
 ```js
