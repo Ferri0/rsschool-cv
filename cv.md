@@ -1,5 +1,8 @@
 ## Yaroslav Abrasimov - Frontend Web Developer
 
+<img src="https://user-images.githubusercontent.com/67440994/205126180-dd4299d3-8dbf-4639-b984-f46ba0dbedb3.jpg" alt="avatar" width="300"/>
+
+
 ### Personal information
 - Date of birthday: **30/11/1994**
 - Address: **Bratislava**
