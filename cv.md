@@ -72,3 +72,13 @@ export const copyFolderContent = async (folderPath, newFolderPath) => {
 **2020 - 2021** - Freelance  
 **2019 - 2020** - Self-education, pet projects, RSSchool
 
+### Education
+**Feb 2021 - May 2021** - RSSchool React  
+**Sept 2020 - Feb 2021** - RSSchool JS  
+**Feb 2013 - June 2019** - Higher medical education
+
+### Languages
+**English** - Intermediate  
+**Ukrainian** - Fluent  
+**Russian** - Fluent  
+**Slovakian** - Elementary
