@@ -12,7 +12,7 @@
 ### About me
 I have been working as a front-end developer for about two years. Now I am actively studying backend and cloud technologies.  
 I graduated from the RSSchool courses in 2019-2020.  
-This year I came to RSSchool curse to keep my wife company, she is also studying to be a developer.
+This year I came to RSSchool course to keep my wife company, she is also studying to be a developer.  
 
 ### Skills
 
