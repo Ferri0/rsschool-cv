@@ -375,17 +375,17 @@ li {
     border-bottom: 30px solid var(--background-light);
 }
 
-.intro {
-    margin-bottom: var(--large-indent);
-}
-
-.intro__header {
+.h1_header {
     font-family: var(--font-header);
     color: var(--color-white);
     font-weight: 400;
     font-size: 50px;
     line-height: 1.2;
     text-transform: uppercase;
+}
+
+.intro {
+    margin-bottom: var(--large-indent);
 }
 
 .intro__subheader {
